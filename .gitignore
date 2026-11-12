@@ -1,0 +1,11 @@
+# Dependencias
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Archivos de compilación y entorno
+dist/
+build/
+.env
+.DS_Store
+*.log
